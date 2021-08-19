@@ -1,1 +1,2 @@
 1) Tomas Ruiz - Primer commit
+2) José Mercado - Segundo Commit
